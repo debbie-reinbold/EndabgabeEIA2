@@ -1,3 +1,12 @@
+/*
+Aufgabe: Endabagbe DönerTrainer
+Name: Deborah Reinbold
+Matrikel: 268174
+Quellen: Zusammenarbeit mit Christina Gabler, Asya Tetik, Lisa Fingerle, 
+Asteroids von Jirka
+Soccergame von Mona Stingl
+Datum: 14.02.22
+*/
 namespace DoenerTrainer {
 
     window.addEventListener("load", handleLoad);
